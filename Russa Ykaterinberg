@@ -1,0 +1,244 @@
+==========Russa Ykaterinberg==========
+
+-----Sheetrock-----
+How many square feet of sheetrock need to be done?
+100
+Price: $250
+
+-----Paint-----
+This section is only for when there will only be one color of paint used.
+How many square feet is the whole job?
+9
+Price: $18
+
+-----Paint-----
+This section is only for when there will be 2-3 colors of paint used.
+How many square feet is the whole job?
+9
+Price: $27
+
+-----Trim-----
+How many linear feet of trim need to be done?
+9
+Price: $22.5
+
+-----Crown Moulding-----
+How many linear feet of crown moulding need to be done?
+9
+Price: $45
+
+-----Windows-----
+How many windows need to be done?
+9
+Price: $2700
+
+-----Tile Floors-----
+This section is only for floors.
+How many square feet of tile need to be done?
+9
+Price: $72
+
+-----Tile Walls-----
+This section is only for walls.
+How many square feet of tile need to be done?
+9
+Price: $135
+
+-----Laminate-----
+How many square feet of laminate need to be done?
+9
+Price: $27
+
+-----Hardwood-----
+How many square feet of hardwood need to be done?
+9
+Price: $63
+
+-----Vynil Plank-----
+How many square feet of vynil plank needs to be done?
+9
+Price: $31.5
+
+-----Carpet-----
+How many square yards of carpet need to be done?
+9
+Price: $180
+
+-----Laminate Countertops-----
+How many square feet of laminate countertops need to be done?
+9
+Price: $270
+
+-----Granite Countertops-----
+How many square feet of granite countertops need to be done?
+9
+Price: $720
+
+-----Upper Cabinets-----
+How many lineal feet of upper cabinets need to be done?
+9
+Price: $900
+
+-----Lower Cabinets-----
+How many lineal feet of lower cabinets need to be done?
+9
+Price: $1800
+
+-----Island Cabinets-----
+How many square feet of island cabinets need to be done?
+9
+Price: $450
+
+-----Roofing-----
+How many square feet of roofing need to be done?
+9
+How many openings are there in the roof?
+9
+Price: $463.5
+
+-----Siding-----
+How many square feet of siding need to be done?
+9
+Price: $20.25
+
+-----Exterior Trim-----
+How many lineal feet of exterior tirm need to be done?
+9
+Price: $31.5
+
+-----Fixtures-----
+How many fixtures need to be done?
+9
+Price: $450
+
+-----Switches/Outlets-----
+How many switches or outlets need to be done?
+9
+Price: $45
+
+-----Electric Appliances-----
+How many electric appliances need to be done?
+9
+Price: $4050
+
+-----Gas Appliances-----
+How many gas appliances need to be done?
+9
+Price: $4950
+
+-----Water Appliances-----
+How many water apliances need to be done?
+9
+Price: $4500
+
+-----Toilets-----
+How many toilets need to be done?
+9
+Price: $1800
+
+-----Bathroom Sinks-----
+How many bathroom sinks need to be done?
+9
+Price: $675
+
+-----Kitchen Sinks-----
+How many kitchen sinks need to be done?
+9
+Price: $1800
+
+-----Bathroom Faucets-----
+How many bathroom faucets need to be done?
+9
+Price: $675
+
+-----Kitchen Faucets-----
+How many kitchen faucets need to be done?
+9
+Price: $1350
+
+-----Doorknobs-----
+How many doorknobs need to be done?
+9
+Price: $225
+
+-----Gutters-----
+How many lineal feet of gutters need to be done?
+9
+Price: $63
+
+-----Sheer Plywood-----
+How many square feet of sheer plywood need to be done?
+9
+Price: $13.5
+
+-----Exterior Walls Moisture Barrier-----
+How many square feet of exterior moisture barrier need to be done?
+9
+Price: $2.25
+
+-----Roof Moisture Barrier-----
+How many square feet of roof moisture barrier need to be done?
+9
+Price: $2.25
+
+-----Ice Block-----
+How many lineal feet of ice block need to be done?
+9
+Price: $13.5
+
+-----Swinging Doors-----
+How many swinging doors need to be done?
+9
+Price: $1215
+
+-----Bifold Doors-----
+How many bifold doors need to be done?
+9
+Price: $2250
+
+-----Bypass Doors-----
+How many bypass doors need to be done?
+9
+Price: $2250
+
+-----Shelf and Pole-----
+How many lineal feet of shelf and pole need to be done?
+9
+Price: $63
+
+-----Exterior Metal Doors-----
+How many exterior metal doors need to be done?
+9
+Price: $3600
+
+-----Exterior French Doors-----
+How many exterior french doors need to be done?
+9
+Price: $8100
+
+-----Sliding Glass Doors-----
+How many sliding glass doors need to be done?
+9
+Price: $6300
+
+-----Front Doors-----
+How many front doors need to be done?
+9
+Price: $9000
+
+Do you have anything to add to the bid? (y/n)
+y
+De-ghetoo-fying
+How much does it cost? Only put the number. No dollar signs.
+1e+09
+Do you have anything to add to the bid? (y/n)
+y
+Cat extermination
+How much does it cost? Only put the number. No dollar signs.
+5
+Do you have anything to add to the bid? (y/n)
+n
+
+
+==========Results==========
+The estimated cost for your remodel is $1000061623.

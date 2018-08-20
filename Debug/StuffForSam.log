@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\griff\source\repos\stuffforsam\stuffforsam\main.cpp(1011): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  StuffForSam.vcxproj -> C:\Users\griff\source\repos\StuffForSam\Debug\StuffForSam.exe
